@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26f5c7de-0502-4140-94a3-102a4e99e26f" name="Changes" comment="create ArrayLists" />
+    <list default="true" id="26f5c7de-0502-4140-94a3-102a4e99e26f" name="Changes" comment="create ArrayLists&#10;fill lists from console">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642411287183</updated>
-      <workItem from="1642411288686" duration="10712000" />
+      <workItem from="1642411288686" duration="11646000" />
     </task>
     <task id="LOCAL-00001" summary="create ArrayLists">
       <created>1642432913726</created>
@@ -84,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642433584480</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create ArrayLists&#10;fill lists from console">
+      <created>1642434055697</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642434055697</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create ArrayLists" />
-    <option name="LAST_COMMIT_MESSAGE" value="create ArrayLists" />
+    <MESSAGE value="create ArrayLists&#10;fill lists from console" />
+    <option name="LAST_COMMIT_MESSAGE" value="create ArrayLists&#10;fill lists from console" />
   </component>
 </project>
